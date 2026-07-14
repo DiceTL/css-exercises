@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.font{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.but1{
+    background-color: rgb(22, 24, 24);
+    color: rgb(255, 255, 255);
+}
+
+.but2{
+    background-color: rgb(255, 230, 0);
+}
